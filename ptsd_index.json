@@ -1,0 +1,582 @@
+{
+  "title": "Post Traumatic Stress Index",
+  "source": "The Betrayal Bond",
+  "contents": [
+    {
+      "number": 1,
+      "question": "I have recurring memories of painful experiences."
+    },
+    {
+      "number": 2,
+      "question": "I am unable to stop a harmful childhood pattern."
+    },
+    {
+      "number": 3,
+      "question": "I sometimes obsess about people who have hurt me and are now gone."
+    },
+    {
+      "number": 4,
+      "question": "I feel bad at times about myself because of shameful experiences I believe were my fault."
+    },
+    {
+      "number": 5,
+      "question": "I am a risk taker."
+    },
+    {
+      "number": 6,
+      "question": "At times, I have difficulty staying awake."
+    },
+    {
+      "number": 7,
+      "question": "I sometimes feel separate from my body as a reaction to a flashback or memory."
+    },
+    {
+      "number": 8,
+      "question": "I deny myself basic needs at times, like groceries, shoes, books, medical care, rent and heat."
+    },
+    {
+      "number": 9,
+      "question": "I have distressing dreams about experiences."
+    },
+    {
+      "number": 10,
+      "question": "I repeat painful experiences over and over."
+    },
+    {
+      "number": 11,
+      "question": "I try to be understood by those who are incapable or don’t care for me."
+    },
+    {
+      "number": 12,
+      "question": "I have suicidal thoughts."
+    },
+    {
+      "number": 13,
+      "question": "I engage in high-risk behaviors."
+    },
+    {
+      "number": 14,
+      "question": "I eat excessively to avoid problems."
+    },
+    {
+      "number": 15,
+      "question": "I avoid thoughts or feelings associated with my trauma experiences."
+    },
+    {
+      "number": 16,
+      "question": "I skip vacations because of lack of time or money."
+    },
+    {
+      "number": 17,
+      "question": "I have periods of sleeplessness."
+    },
+    {
+      "number": 18,
+      "question": "I try to re-create an early trauma experience."
+    },
+    {
+      "number": 19,
+      "question": "I keep secrets for people who have hurt me."
+    },
+    {
+      "number": 20,
+      "question": "I have attempted suicide."
+    },
+    {
+      "number": 21,
+      "question": "I am sexual when frightened."
+    },
+    {
+      "number": 22,
+      "question": "I drink to excess when life is too hard."
+    },
+    {
+      "number": 23,
+      "question": "I avoid stories, parts of movies or reminders of early painful experiences."
+    },
+    {
+      "number": 24,
+      "question": "I avoid sexual pleasure."
+    },
+    {
+      "number": 25,
+      "question": "I sometimes feel like an old painful experience is happening now."
+    },
+    {
+      "number": 26,
+      "question": "There is something destructive I do over and over from my early life."
+    },
+    {
+      "number": 27,
+      "question": "I stayed in conflict with someone when I could have walked away."
+    },
+    {
+      "number": 28,
+      "question": "I have suicidal thoughts."
+    },
+    {
+      "number": 29,
+      "question": "I often feel sexual when I am lonely."
+    },
+    {
+      "number": 30,
+      "question": "I use depressant drugs as a way to cope."
+    },
+    {
+      "number": 31,
+      "question": "I am unable to recall important details of painful experiences."
+    },
+    {
+      "number": 32,
+      "question": "I avoid doing “normal” activities because of fears I have."
+    },
+    {
+      "number": 33,
+      "question": "I have sudden, vivid or distracting memories of painful experiences."
+    },
+    {
+      "number": 34,
+      "question": "I attempt to stop activities I know are not helpful."
+    },
+    {
+      "number": 35,
+      "question": "I go overboard to help people who have been destructive."
+    },
+    {
+      "number": 36,
+      "question": "I often feel lonely and estranged from others because of painful experiences I have had."
+    },
+    {
+      "number": 37,
+      "question": "I feel intensely sexual when violence occurs."
+    },
+    {
+      "number": 38,
+      "question": "My procrastinating interferes with my life activities."
+    },
+    {
+      "number": 39,
+      "question": "I sometimes withdraw or have no interest in important activities because of childhood experiences."
+    },
+    {
+      "number": 40,
+      "question": "I will hoard money and not spend money on legitimate needs."
+    },
+    {
+      "number": 41,
+      "question": "I am upset when there are reminders of abusive experiences like anniversaries, places or symbols."
+    },
+    {
+      "number": 42,
+      "question": "I compulsively do things to others that were done to me as a young person."
+    },
+    {
+      "number": 43,
+      "question": "I sometimes help those who continue to harm me."
+    },
+    {
+      "number": 44,
+      "question": "I feel unable to experience certain emotions (love, happiness, sadness, etc.)."
+    },
+    {
+      "number": 45,
+      "question": "I feel sexual when degraded or used."
+    },
+    {
+      "number": 46,
+      "question": "Sleep is a way for me to avoid life’s problems."
+    },
+    {
+      "number": 47,
+      "question": "I have difficulty concentrating."
+    },
+    {
+      "number": 48,
+      "question": "I have attempted diets repeatedly."
+    },
+    {
+      "number": 49,
+      "question": "I have difficulty sleeping."
+    },
+    {
+      "number": 50,
+      "question": "My relationships are the same story over and over."
+    },
+    {
+      "number": 51,
+      "question": "I feel loyal to people even though they have betrayed me."
+    },
+    {
+      "number": 52,
+      "question": "I have a dim outlook on my future."
+    },
+    {
+      "number": 53,
+      "question": "I feel sexual when someone is 'nice' to me."
+    },
+    {
+      "number": 54,
+      "question": "At times I am preoccupied with food and eating."
+    },
+    {
+      "number": 55,
+      "question": "I experience confusion often."
+    },
+    {
+      "number": 56,
+      "question": "I refuse to buy things even when I need them and have the money."
+    },
+    {
+      "number": 57,
+      "question": "I have difficulty feeling sexual."
+    },
+    {
+      "number": 58,
+      "question": "I know that something destructive I do repeats a childhood event."
+    },
+    {
+      "number": 59,
+      "question": "I remain a “team” member when obviously things are becoming destructive."
+    },
+    {
+      "number": 60,
+      "question": "I feel as if I must avoid depending on people."
+    },
+    {
+      "number": 61,
+      "question": "I sometimes feel bad because I enjoyed experiences that were exploitive of me."
+    },
+    {
+      "number": 62,
+      "question": "I abuse alcohol often."
+    },
+    {
+      "number": 63,
+      "question": "I tend to be accident-prone."
+    },
+    {
+      "number": 64,
+      "question": "I spend much time performing underachieving jobs."
+    },
+    {
+      "number": 65,
+      "question": "Sometimes I have outbursts of anger or irritability."
+    },
+    {
+      "number": 66,
+      "question": "I do things to others that were done to me in my family."
+    },
+    {
+      "number": 67,
+      "question": "I make repeated efforts to convince people who were destructive to me and not willing to listen."
+    },
+    {
+      "number": 68,
+      "question": "I engage in self-destructive behaviors."
+    },
+    {
+      "number": 69,
+      "question": "I get “high” on activities that are dangerous to me."
+    },
+    {
+      "number": 70,
+      "question": "I use TV, reading and hobbies as ways to numb out."
+    },
+    {
+      "number": 71,
+      "question": "I go into a fantasy world when things are tough."
+    },
+    {
+      "number": 72,
+      "question": "I am underemployed."
+    },
+    {
+      "number": 73,
+      "question": "I am extremely cautious of my surroundings."
+    },
+    {
+      "number": 74,
+      "question": "I have thoughts and behaviors repeatedly that do not feel good to me."
+    },
+    {
+      "number": 75,
+      "question": "I attempt to be liked by people who clearly are exploiting me."
+    },
+    {
+      "number": 76,
+      "question": "I engage in self-mutilating behaviors (cutting self, burning, bruising, etc.)."
+    },
+    {
+      "number": 77,
+      "question": "I use drugs like cocaine or amphetamines to speed things up"
+    },
+    {
+      "number": 78,
+      "question": "I put off certain tasks."
+    },
+    {
+      "number": 79,
+      "question": "I use “romance” as a way to avoid problems."
+    },
+    {
+      "number": 80,
+      "question": "I feel very guilty about any sexual activity."
+    },
+    {
+      "number": 81,
+      "question": "I often feel that people are out to take advantage of me."
+    },
+    {
+      "number": 82,
+      "question": "I revert to doing things I did as a child."
+    },
+    {
+      "number": 83,
+      "question": "I am attracted to untrustworthy people."
+    },
+    {
+      "number": 84,
+      "question": "I endure physical or emotional pain most people would not accept."
+    },
+    {
+      "number": 85,
+      "question": "I like “living on the edge” of danger or excitement."
+    },
+    {
+      "number": 86,
+      "question": "When things are difficult, I will sometimes binge."
+    },
+    {
+      "number": 87,
+      "question": "I have a tendency to be preoccupied with something other than what I need to be."
+    },
+    {
+      "number": 88,
+      "question": "I have a low interest in sexual activity."
+    },
+    {
+      "number": 89,
+      "question": "I am distrustful of others."
+    },
+    {
+      "number": 90,
+      "question": "Some of my recurring behavior comes from early life experiences."
+    },
+    {
+      "number": 91,
+      "question": "I trust people who have proved to be unreliable."
+    },
+    {
+      "number": 92,
+      "question": "I try to be perfect."
+    },
+    {
+      "number": 93,
+      "question": "I am orgasmic when hurt or beaten."
+    },
+    {
+      "number": 94,
+      "question": "I use drugs to escape."
+    },
+    {
+      "number": 95,
+      "question": "I use marijuana or psychedelics to hallucinate."
+    },
+    {
+      "number": 96,
+      "question": "I sometimes spoil success opportunities."
+    },
+    {
+      "number": 97,
+      "question": "I am startled more easily than others."
+    },
+    {
+      "number": 98,
+      "question": "I am preoccupied with children of a certain age."
+    },
+    {
+      "number": 99,
+      "question": "I seek people whom I know will cause me pain."
+    },
+    {
+      "number": 100,
+      "question": "I avoid mistakes at any cost."
+    },
+    {
+      "number": 101,
+      "question": "I love to gamble on outcomes."
+    },
+    {
+      "number": 102,
+      "question": "I work too hard so I won’t have to feel."
+    },
+    {
+      "number": 103,
+      "question": "I will often lose myself in fantasies rather than deal with real life."
+    },
+    {
+      "number": 104,
+      "question": "I go without necessities for periods of time."
+    },
+    {
+      "number": 105,
+      "question": "I get physical reactions to reminders of abuse experiences (breaking out in cold sweat, trouble breathing, etc.)."
+    },
+    {
+      "number": 106,
+      "question": "I engage in abusive relationships repeatedly."
+    },
+    {
+      "number": 107,
+      "question": "I have difficulty distancing myself from unhealthy relationships."
+    },
+    {
+      "number": 108,
+      "question": "I sometimes want to hurt myself physically."
+    },
+    {
+      "number": 109,
+      "question": "I need lots of stimulation so I will not be bored."
+    },
+    {
+      "number": 110,
+      "question": "I get 'lost' in my work."
+    },
+    {
+      "number": 111,
+      "question": "I live a 'double life.'"
+    },
+    {
+      "number": 112,
+      "question": "I vomit food or use diuretics to avoid weight gain."
+    },
+    {
+      "number": 113,
+      "question": "I feel anxious about being sexual."
+    },
+    {
+      "number": 114,
+      "question": "There is a certain age of children or adolescents that is sexually attractive to me."
+    },
+    {
+      "number": 115,
+      "question": "I continue to have contact with a person who has abused me."
+    },
+    {
+      "number": 116,
+      "question": "I often feel unworthy, unlovable, immoral or sinful because of experiences I have had."
+    },
+    {
+      "number": 117,
+      "question": "I like sex when it is dangerous."
+    },
+    {
+      "number": 118,
+      "question": "I try to 'slow down' my mind."
+    },
+    {
+      "number": 119,
+      "question": "I like “compartments” that others do not know about."
+    },
+    {
+      "number": 120,
+      "question": "I experience periods when I’m not interested in eating."
+    },
+    {
+      "number": 121,
+      "question": "I am scared about sex."
+    },
+    {
+      "number": 122,
+      "question": "There are activities that I have trouble stopping even though they are useless or destructive."
+    },
+    {
+      "number": 123,
+      "question": "I am in emotional fights (divorces, lawsuits) that seem endless."
+    },
+    {
+      "number": 124,
+      "question": "I often feel I should be punished for past behavior."
+    },
+    {
+      "number": 125,
+      "question": "I do sexual things that are risky."
+    },
+    {
+      "number": 126,
+      "question": "When I am anxious, I will do things to stop my feelings."
+    },
+    {
+      "number": 127,
+      "question": "I have a fantasy life that I retreat to when things are hard."
+    },
+    {
+      "number": 128,
+      "question": "I have difficulty with play."
+    },
+    {
+      "number": 129,
+      "question": "I wake up with upsetting dreams."
+    },
+    {
+      "number": 130,
+      "question": "My relationships seem to have the same dysfunctional pattern."
+    },
+    {
+      "number": 131,
+      "question": "There are certain people whom I always allow to take advantage of me."
+    },
+    {
+      "number": 132,
+      "question": "I have a sense that others are always better off than me."
+    },
+    {
+      "number": 133,
+      "question": "I use cocaine or amphetamines to heighten high-risk activities."
+    },
+    {
+      "number": 134,
+      "question": "I don’t tolerate uncomfortable feelings."
+    },
+    {
+      "number": 135,
+      "question": "I am a daydreamer."
+    },
+    {
+      "number": 136,
+      "question": "At times, I see comfort, luxuries and play activities as frivolous."
+    },
+    {
+      "number": 137,
+      "question": "I hate it when someone approaches me sexually."
+    },
+    {
+      "number": 138,
+      "question": "Sometimes I find children more attractive than others."
+    },
+    {
+      "number": 139,
+      "question": "There are some people in my life who are hard to get over, though they hurt or used me badly."
+    },
+    {
+      "number": 140,
+      "question": "I feel bad when something good happens."
+    },
+    {
+      "number": 141,
+      "question": "I get excited/aroused when faced with dangerous situations."
+    },
+    {
+      "number": 142,
+      "question": "I use anything to distract myself from my problems."
+    },
+    {
+      "number": 143,
+      "question": "Sometimes I live in an 'unreal' world."
+    },
+    {
+      "number": 144,
+      "question": "There are long periods of time with no sexual activity for me."
+    }
+  ]
+}
